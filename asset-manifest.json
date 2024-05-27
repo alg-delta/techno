@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/techno/static/css/main.662f0af2.css",
+    "main.js": "/techno/static/js/main.66e7a703.js",
+    "static/js/453.a3dc4fbb.chunk.js": "/techno/static/js/453.a3dc4fbb.chunk.js",
+    "static/media/2.jpg": "/techno/static/media/2.741c5e940ce4c9bf1c69.jpg",
+    "index.html": "/techno/index.html",
+    "main.662f0af2.css.map": "/techno/static/css/main.662f0af2.css.map",
+    "main.66e7a703.js.map": "/techno/static/js/main.66e7a703.js.map",
+    "453.a3dc4fbb.chunk.js.map": "/techno/static/js/453.a3dc4fbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.662f0af2.css",
+    "static/js/main.66e7a703.js"
+  ]
+}
