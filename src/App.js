@@ -47,7 +47,7 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter basename="/techno">
+      <BrowserRouter basename="/techno/">
         <Header />
         <div className="f1">
           <div className="f2">
